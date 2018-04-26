@@ -1,0 +1,10 @@
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\bin\Debug\HelperLibrary.dll
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\bin\Debug\HelperLibrary.pdb
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Tai Linh Du\source\repos\ConsoleUI\obj\Debug\ConsoleUI.pdb
